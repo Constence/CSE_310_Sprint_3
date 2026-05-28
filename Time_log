@@ -26,12 +26,20 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
+|          |          |   TP   |  Add fonts to webstie                      |             |  1
+|          |          |   TP   |  Fix color scheme of boxes when selected   |             |  2
+|          |          |   TP   |  Add spud images to the website            |             |  1
+
+
+|Date      |Start Time|Category|Description                                 |Total Minutes|
+|----------|----------|:------:|--------------------------------------------|:-----------:|
+|          |          |   IM   |  Review SQL                                |             |  2
+|          |          |   IM   |  Find a way to get SQL into VSCode         |             |  2
+|          |          |   IM   |  Try to do the project by hand             |             |  2 
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+
 
 _Note: Add more rows as needed._
 
@@ -40,6 +48,6 @@ _Note: Add more rows as needed._
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
 |IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
+|TP - Team Project              |                          | 
+|MTG - Class Meetings           |              4           | * I canme to class every day.... 
 |**TOTAL**                      |                          |
